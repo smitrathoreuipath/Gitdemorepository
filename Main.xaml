@@ -52,6 +52,6 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" Buttons="Ok" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="313.714285714286,58.2857142857143" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello to the World of Git&quot;]" TopMost="True" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" Buttons="Ok" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="313.714285714286,58.2857142857143" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello to the World of Git again&quot;]" TopMost="True" />
   </Sequence>
 </Activity>
